@@ -8,7 +8,7 @@ Java PC_Manager Program
 
 PC 관리 프로젝트
 
-- 핵심 목표: 학교에서 했던 프로젝트를 완벽한 프로그램으로 만들자!!
+- 핵심 목표: 학교에서 했던 프로젝트를 완벽한 프로그램으로 만들기
 - Keyword: MVC, Thread, Socket, GSON, Singleton, Weather API(Open API), DOM(parser), MySQL, JSON, Maven, Server-Client
 - 개발 기간: 2019.12.23 ~ 2020.1.7, 2020.02.02 ~ 2020.02.25
 
